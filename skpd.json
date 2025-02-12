@@ -23,5 +23,5 @@
       {"title": "KESBANGPOL", "api": "https://kesbangpol.tasikmalayakota.go.id"},
       {"title": "DISKUKMPERINDAG", "api": "https://kukmperindag.tasikmalayakota.go.id"},
       {"title": "RSUD", "api": "https://rsud.tasikmalayakota.go.id"},
-      {"title": "SATPOL PP", "api": "https://satpolpp.tasikmalayakota.go.id"},
+      {"title": "SATPOL PP", "api": "https://satpolpp.tasikmalayakota.go.id"}
     ]
