@@ -1,27 +1,129 @@
-[
-      {"id": 1,"title": "SETDA", "api": "https://setda.tasikmalayakota.go.id"},
-      {"id": 2,"title": "BAPPELITBANGDA", "api": "https://bappelitbangda.tasikmalayakota.go.id"},
-      {"id": 3,"title": "BAPENDA", "api": "https://bapenda.tasikmalayakota.go.id"},
-      {"id": 4,"title": "BKPSDM", "api": "https://bkpsdm.tasikmalayakota.go.id"},
-      {"id": 5,"title": "BPBD", "api": "https://bpbd.tasikmalayakota.go.id"},
-      {"id": 6,"title": "BPKAD", "api": "https://bpkad.tasikmalayakota.go.id"},
-      {"id": 7,"title": "DINKES", "api": "https://dinkes.tasikmalayakota.go.id"},
-      {"id": 8,"title": "DINSOS", "api": "https://dinsos.tasikmalayakota.go.id"},
-      {"id": 9,"title": "DIPUSIPDA", "api": "https://dipusipda.tasikmalayakota.go.id"},
-      {"id": 10,"title": "DISDIK", "api": "https://disdik.tasikmalayakota.go.id"},
-      {"id": 11,"title": "DISDUKCAPIL", "api": "https://disdukcapil.tasikmalayakota.go.id"},
-      {"id": 12,"title": "DISHUB", "api": "https://dishub.tasikmalayakota.go.id"},
-      {"id": 13,"title": "DISKOMINFO", "api": "https://diskominfo.tasikmalayakota.go.id"},
-      {"id": 14,"title": "DISNAKER", "api": "https://disnaker.tasikmalayakota.go.id"},
-      {"id": 15,"title": "DISPERAWASKIM", "api": "https://disperawaskim.tasikmalayakota.go.id"},
-      {"id": 16,"title": "DISPORABUDPAR", "api": "https://disporabudpar.tasikmalayakota.go.id"},
-      {"id": 17,"title": "DKP3", "api": "https://dkp3.tasikmalayakota.go.id"},
-      {"id": 18,"title": "DLH", "api": "https://dlh.tasikmalayakota.go.id"},
-      {"id": 19,"title": "DPMPTSP", "api": "https://dpmptsp.tasikmalayakota.go.id"},
-      {"id": 20,"title": "DPUPR", "api": "https://pupr.tasikmalayakota.go.id"},
-      {"id": 21,"title": "INSPEKTORAT", "api": "https://inspektorat.tasikmalayakota.go.id"},
-      {"id": 21,"title": "KESBANGPOL", "api": "https://kesbangpol.tasikmalayakota.go.id"},
-      {"id": 23,"title": "DISKUKMPERINDAG", "api": "https://kukmperindag.tasikmalayakota.go.id"},
-      {"id": 24,"title": "RSUD", "api": "https://rsud.tasikmalayakota.go.id"},
-      {"id": 25,"title": "SATPOL PP", "api": "https://satpolpp.tasikmalayakota.go.id"}
-]
+{
+      "data": [
+            {
+                  "id": 1,
+                  "title": "SETDA", 
+                  "api": "https://setda.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 2,
+                  "title": "BAPPELITBANGDA", 
+                  "api": "https://bappelitbangda.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 3,
+                  "title": "BAPENDA",
+                  "api": "https://bapenda.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 4,
+                  "title": "BKPSDM", 
+                  "api": "https://bkpsdm.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 5,
+                  "title": "BPBD", 
+                  "api": "https://bpbd.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 6,
+                  "title": "BPKAD", 
+                  "api": "https://bpkad.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 7,
+                  "title": "DINKES", 
+                  "api": "https://dinkes.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 8,
+                  "title": "DINSOS", 
+                  "api": "https://dinsos.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 9,
+                  "title": "DIPUSIPDA", 
+                  "api": "https://dipusipda.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 10,
+                  "title": "DISDIK", 
+                  "api": "https://disdik.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 11,
+                  "title": "DISDUKCAPIL", 
+                  "api": "https://disdukcapil.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 12,
+                  "title": "DISHUB", 
+                  "api": "https://dishub.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 13,
+                  "title": "DISKOMINFO", 
+                  "api": "https://diskominfo.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 14,
+                  "title": "DISNAKER", 
+                  "api": "https://disnaker.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 15,
+                  "title": "DISPERAWASKIM", 
+                  "api": "https://disperawaskim.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 16,
+                  "title": "DISPORABUDPAR", 
+                  "api": "https://disporabudpar.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 17,
+                  "title": "DKP3", 
+                  "api": "https://dkp3.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 18,
+                  "title": "DLH", 
+                  "api": "https://dlh.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 19,
+                  "title": "DPMPTSP", 
+                  "api": "https://dpmptsp.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 20,
+                  "title": "DPUPR", 
+                  "api": "https://pupr.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 21,
+                  "title": "INSPEKTORAT", 
+                  "api": "https://inspektorat.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 21,
+                  "title": "KESBANGPOL", 
+                  "api": "https://kesbangpol.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 23,
+                  "title": "DISKUKMPERINDAG", 
+                  "api": "https://kukmperindag.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 24,
+                  "title": "RSUD", 
+                  "api": "https://rsud.tasikmalayakota.go.id"
+            },
+            {
+                  "id": 25,
+                  "title": "SATPOL PP", 
+                  "api": "https://satpolpp.tasikmalayakota.go.id"
+            }
+      ]
+}
