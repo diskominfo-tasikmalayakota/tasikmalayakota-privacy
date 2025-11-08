@@ -3,10 +3,17 @@
     <channel>
         <title>SmartKelurahan - Kota Tasikmalaya</title>
         <item>
+<<<<<<< HEAD
+            <title>Version 1.1.2</title>
+            <description>Penyesuaian metadata pada Surat Keterangan Taksiran Harga Tanah dan Bangunan, Surat Pengantar Pindah Antar Kelurahan, Surat Pengantar Pindah Antar Kecamatan, Surat Pengantar Pindah Antar Kota, dan Surat Keterangan Pindah dalam satu wilayahan Kelurahan.</description>
+            <pubDate>Mon, 13 May 2025 15:19:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=id.go.tasikmalayakota.smartkelurahan" sparkle:version="1.1.2" sparkle:os="android" />
+=======
             <title>Version 1.1.3</title>
             <description>Penyesuaian metadata pada Surat Pengantar Pembuatan Akta Kelahiran.</description>
             <pubDate>Tue, 20 May 2025 19:58:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=id.go.tasikmalayakota.smartkelurahan.officer" sparkle:version="1.1.3" sparkle:os="android" />
+>>>>>>> be71b6bc46168951036fb10f841bff7e37aa9082
         </item>
     </channel>
 </rss>
