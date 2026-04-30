@@ -2,11 +2,31 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Suresman - Kota Tasikmalaya</title>
+        
+        <!-- Update untuk Android -->
         <item>
             <title>Version 2.0.1</title>
-            <description>Optimasi fitur dan perbaikan bug.</description>
-            <pubDate>Thu, 30 Jan 2026 21:27:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=id.go.tasikmalayakota.suresman&hl=id" sparkle:version="2.0.1" sparkle:os="android" />
+            <description>Pembaruan wajib untuk peningkatan performa dan keamanan.</description>
+            <pubDate>Thu, 30 Apr 2026 21:27:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=id.go.tasikmalayakota.suresman" 
+                       sparkle:version="2.0.1" 
+                       sparkle:os="android" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+        </item>
+
+        <!-- Update untuk iOS -->
+        <item>
+            <title>Version 2.0.1</title>
+            <description>Pembaruan wajib untuk peningkatan performa dan keamanan.</description>
+            <pubDate>Thu, 30 Apr 2026 21:27:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/id/app/suresman/id6739504193" 
+                       sparkle:version="2.0.1" 
+                       sparkle:os="ios" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
         </item>
     </channel>
 </rss>
