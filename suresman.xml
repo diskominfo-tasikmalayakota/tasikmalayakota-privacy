@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Suresman - Kota Tasikmalaya</title>
+        <item>
+            <title>Version 2.0.1</title>
+            <description>Optimasi fitur dan perbaikan bug.</description>
+            <pubDate>Thu, 30 Jan 2026 21:27:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=id.go.tasikmalayakota.suresman&hl=id" sparkle:version="2.0.1" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
