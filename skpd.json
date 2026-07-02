@@ -8,7 +8,7 @@
         {
             "id": 2,
             "title": "SEKRETARIAT DEWAN PERWAKILAN RAKYAT DAERAH KOTA TASIKMALAYA",
-            "api": "https://setwan.tasikmalayakota.go.id/"
+            "api": "https://setwan.tasikmalayakota.go.id"
         },
         {
             "id": 3,
@@ -78,7 +78,7 @@
         {
             "id": 16,
             "title": "DINAS PENGENDALIAN PENDUDUK, KELUARGA BERENCANA, PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK",
-            "api": "https://dppkbp3a.tasikmalayakota.go.id/"
+            "api": "https://dppkbp3a.tasikmalayakota.go.id"
         },
         {
             "id": 17,
@@ -533,7 +533,7 @@
         {
             "id": 107,
             "title": "UPTD Khusus Rumah Sakit Umum Daerah Dewi Sartika",
-            "api": "https://rsuddewisartika.tasikmalayakota.go.id/"
+            "api": "https://rsuddewisartika.tasikmalayakota.go.id"
         },
         {
             "id": 108,
@@ -543,7 +543,7 @@
         {
             "id": 109,
             "title": "UPTD Puskesmas Cihideung",
-            "api": "https://puskesmas-cihideung.tasikmalayakota.go.id/"
+            "api": "https://puskesmas-cihideung.tasikmalayakota.go.id"
         },
         {
             "id": 110,
@@ -563,7 +563,7 @@
         {
             "id": 113,
             "title": "UPTD Puskesmas Kawalu",
-            "api": "https://puskesmas-kawalu.tasikmalayakota.go.id/"
+            "api": "https://puskesmas-kawalu.tasikmalayakota.go.id"
         },
         {
             "id": 114,
@@ -573,7 +573,7 @@
         {
             "id": 115,
             "title": "UPTD Puskesmas Cipedes",
-            "api": "https://puskesmas-cipedes.tasikmalayakota.go.id/"
+            "api": "https://puskesmas-cipedes.tasikmalayakota.go.id"
         },
         {
             "id": 116,
@@ -588,7 +588,7 @@
         {
             "id": 118,
             "title": "UPTD Puskesmas Indihiang",
-            "api": "https://puskesmas-indihiang.tasikmalayakota.go.id/"
+            "api": "https://puskesmas-indihiang.tasikmalayakota.go.id"
         },
         {
             "id": 119,
