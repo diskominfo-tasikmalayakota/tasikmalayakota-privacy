@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Tasik Hub</title>
+                <item>
+            <title>Version 1.5.0</title>
+            <description>Pembaruan wajib untuk peningkatan performa dan keamanan.</description>
+            <pubDate>Wed, 29 Oct 2025 00:00:00 +0700</pubDate>
+            <enclosure
+                url="https://play.google.com/store/apps/details?id=com.insancitamultimedia.iket"
+                sparkle:version="1.5.0"
+                sparkle:os="android" />
+            <sparkle:tags>
+                                    <sparkle:criticalUpdate />
+                            </sparkle:tags>
+        </item>
+                <item>
+            <title>Version 2.0.0</title>
+            <description>Pembaruan wajib untuk peningkatan performa dan keamanan.</description>
+            <pubDate>Mon, 24 Nov 2025 00:00:00 +0700</pubDate>
+            <enclosure
+                url="https://apps.apple.com/id/app/tasik-hub-super-apps/id6740225900"
+                sparkle:version="2.0.0"
+                sparkle:os="ios" />
+            <sparkle:tags>
+                                    <sparkle:criticalUpdate />
+                            </sparkle:tags>
+        </item>
+            </channel>
+</rss>
