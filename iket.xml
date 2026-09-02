@@ -8,7 +8,7 @@
             <pubDate>Wed, 02 Sep 2026 18:49:00 +0700</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.insancitamultimedia.iket"
-                sparkle:version="1.1.1"
+                sparkle:version="1.5.1"
                 sparkle:os="android" />
             <sparkle:tags>
             <sparkle:criticalUpdate />
